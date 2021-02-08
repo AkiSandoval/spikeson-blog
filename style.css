@@ -13,18 +13,19 @@ body {
   padding: 0;
   color:#444;
   font-family: 'Montserrat';
-  background: orange;
 }
 
 h1 {
   font-size: 40px;
   font-weight: bolder;
   letter-spacing: 1px;
+  background: yellow;
 }
 
 h2 {
   font-size: 20px;
   font-weight: bold;
+  background: orange;
 }
 
 h3 {
